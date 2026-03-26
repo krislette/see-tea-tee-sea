@@ -1,0 +1,3 @@
+[submodule "katakana_da"]
+	path = katakana_da
+	url = https://github.com/krislette/katakana-da.git
